@@ -137,6 +137,6 @@ Bu proje **MIT Lisansı** ile lisanslanmıştır.
 
 <div align="center">
 
-**Burak Tatlı** tarafından 💜 ile yapıldı
+**Burak tarafından 💜 ile yapıldı
 
 </div>
